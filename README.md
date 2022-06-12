@@ -1,10 +1,10 @@
-Aplicação desenvolvidade em Asp.Net Core 2.1 apartir do Visual Studio 2017, utilizando o code first para criar o banco de dados.
+Aplicação desenvolvida em Asp.Net Core 2.1 apartir do Visual Studio 2017, utilizando o code first para criar o banco de dados.
 
 ## Instruções
 
 * Baixe o projeto
 
-* Verifique se todas as dependencias do NuGet estão instaladas exe.: EF (EntityFramework), etc.
+* Verifique se todas as dependências do NuGet estão instaladas exe.: EF (EntityFramework), etc.
 
 * [Para o banco de dados utilizei o Docker para criar um container instanciando o Microsoft SQL Server.](#configurando-o-docker)
 
@@ -36,11 +36,11 @@ Caso ainda tenha alguma duvida visite o site para [mais detalhes em clique aqui]
 
 ### Configurando a conexão com MSSQL:
 
-Edite o arquivo [*appsettings.json*](AeroAPI/appsettings.json) para alterar as configurações de coneção.
+Edite o arquivo [*appsettings.json*](AeroAPI/appsettings.json) para alterar as configurações de conexão.
 
 Existem duas string de conexão já estão pré configuradas (AeroAPI_Docker e AeroAPI_local):
 
-A string AeroAPI_Docker para caso utilise o Docker para precisar instalar o servidor em sua maquina.
+A string AeroAPI_Docker para caso utilize o Docker para precisar instalar o servidor em sua maquina.
 A string AeroAPI_local para caso possua uma instância instada do MSSQL.
 
 Para apenas mudar de uma conexão para outra é preciso editar a GetConnectionString no arquivo [*Startup.cs*](AeroAPI/Startup.cs).
