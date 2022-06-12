@@ -1,0 +1,28 @@
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.deps.json
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.runtimeconfig.json
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.runtimeconfig.dev.json
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.dll
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.csprojAssemblyReference.cache
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.RazorAssemblyInfo.cache
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.RazorAssemblyInfo.cs
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.AssemblyInfoInputs.cache
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.AssemblyInfo.cs
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.RazorTargetAssemblyInfo.cache
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.pdb
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.dll
+C:\Projetos\ASP.NET CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.pdb
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.deps.json
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.runtimeconfig.json
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.runtimeconfig.dev.json
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.dll
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\bin\Debug\netcoreapp2.1\AeroAPI.pdb
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.csprojAssemblyReference.cache
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.RazorAssemblyInfo.cache
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.RazorAssemblyInfo.cs
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.AssemblyInfoInputs.cache
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.AssemblyInfo.cs
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.RazorTargetAssemblyInfo.cache
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.dll
+C:\Projetos\ASP.CORE\AeroAPI\AeroAPI\obj\Debug\netcoreapp2.1\AeroAPI.pdb
